@@ -1,5 +1,6 @@
 # Custom gitignores
 data/
+.vscode/
 
 
 # macOS
